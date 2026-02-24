@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="VR classroom">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f5f94"/>
+      <stop offset="1" stop-color="#2e74b9"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="52" height="52" rx="12" fill="url(#bg)"/>
+  <path d="M17 27h30a5 5 0 0 1 5 5v2a5 5 0 0 1-5 5H17a5 5 0 0 1-5-5v-2a5 5 0 0 1 5-5z" fill="#fff"/>
+  <circle cx="24" cy="33" r="3.5" fill="#2e74b9"/>
+  <circle cx="40" cy="33" r="3.5" fill="#2e74b9"/>
+  <text x="32" y="50" text-anchor="middle" font-size="11" font-family="sans-serif" fill="#fff">VR</text>
+</svg>

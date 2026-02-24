@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<libraries>
+    <library>
+        <location>js/aframe-1.6.0.min.js</location>
+        <name>A-Frame</name>
+        <description>Web framework for building 3D/AR/VR experiences.</description>
+        <version>1.6.0</version>
+        <license>MIT</license>
+        <repository>https://github.com/aframevr/aframe</repository>
+        <copyrights>
+            <copyright>Mozilla and A-Frame Contributors</copyright>
+        </copyrights>
+    </library>
+</libraries>
